@@ -23,16 +23,14 @@ header .header__header-img {
 }
 
 header .header__title {
+    font-size: 1.5rem;
+    color: #999999;
     margin: 25px 20px;
 }
 
-.header__title .up {
-    font-size: 1.5rem;
-}
+/* .header__title .up {} */
 
-header .header__title-fir {
-    color: #999999;
-}
+/* header .header__title-fir {} */
 
 header .header__title-job {
     color: white;
